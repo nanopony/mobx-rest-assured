@@ -9,3 +9,4 @@ REST API lib for Mobx that make sense. Let's start with the kōans
 5. For PUT/PATCH/UPDATE, I want API runtime to provide basic model validation. Both client and server side. 
 6. For GET I want API runtime to allow me refresh resource without a hassle 
 7. For GET I want API runtime to use pagination without suffering. Next page, previous page, total pages, current page, has next page, has previous page.
+8. I want API runtime to be extensible and working with all shiny modern language features (async/await, fallback to promises) 
